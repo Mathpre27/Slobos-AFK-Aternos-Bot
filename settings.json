@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nuvrixmc.minekeep.gg",
-    "port": 25565,
+    "ip": "play-nuvrixmc.aternos.me",
+    "port": 30341,
     "version": "1.12.2",
     "try-creative": false
   },
